@@ -4,4 +4,6 @@ body{
 
 #container-fluid {
     background-color: #050505;
+    display: flex;
+    justify-items: center;
 }
