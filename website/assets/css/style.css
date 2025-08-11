@@ -1,9 +1,45 @@
 body{
-    background: #BDBDBD;
+    background:white;
+   
 }
 
 #container-fluid {
-    background-color: hsla(0, 60%, 51%, 0);
+    background-color: black;
     display: flex;
     justify-items: center;
+    margin-bottom: 0%;
 }
+
+ .jumbotron {
+    
+     background-image: url("./../img/bg.jpg"); /* Ruta a la imagen */
+  background-repeat: no-repeat; /* Evitar repetición */
+  background-size: cover; /* Ajustar tamaño para cubrir */
+  background-position: center; /* Centrar la imagen */
+  height:100vh;
+  padding:14px;
+  margin-bottom: 0%;
+  
+ }
+
+ h1 {
+    margin-top: 19vh;
+    background-color: white;
+    width: 100%;
+    text-align: center;
+   font-family: Arial;
+   font-size: xx-large;
+   font-weight: 1000;
+ }
+
+  h3 {
+    
+  background-color: white;
+    width: 100%;
+    text-align: center;
+    font-family: Arial;
+   font-size: xx-large;
+   font-weight: 200;
+ }
+
+   
