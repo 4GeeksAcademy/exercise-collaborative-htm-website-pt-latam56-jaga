@@ -3,8 +3,7 @@ body{
 }
 
 #container-fluid {
-    background-color: #050505;
+    background-color: hsla(0, 60%, 51%, 0);
     display: flex;
     justify-items: center;
 }
-
