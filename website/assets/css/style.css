@@ -7,3 +7,36 @@ body{
     display: flex;
     justify-items: center;
 }
+
+.container-fluid {
+    background-color: #050505;
+    color: white;
+    font font-style: color: white-space;
+    
+}
+
+
+
+        .banner {
+        
+        background-image: url('https://s1.1zoom.me/big3/842/425190-Kycb.jpg'); /* Ruta de la imagen */
+      background-size: cover; /* Ajustar imagen al tamaño del banner */
+      background-position: center; /* Centrar la imagen */
+      color: rgb(249, 241, 241);
+      text-align: center;
+      padding: 60px 0;
+      font-size: 28px;
+      font-weight: bold;
+      text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7); /* Sombra al texto */
+    }
+
+    .baner-2 {
+        background-color: white;
+      margin-left: 10%;
+        margin-right: 10%;
+    }
+
+    .baner-3 {
+        background-color: white;
+
+    }
